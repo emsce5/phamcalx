@@ -1,0 +1,14 @@
+<html>
+	<body>
+		<h1>Transfusion Medicine Quick Cacluations</h1>
+			<h2>These calculations are to be used for testing purposes only and have not yet been thoroughly clinically validated.</h2>
+			<h3>Calculations are as described in "Simple vs. Exchange Transfusion Calculations in Patients with Sickle Cell Disease." by Dr. Huy Pham MD, MPH, and Lawrence Williams III, MD.<h3>
+			<h4>For all calculations the authors of this program assume the hematocrit of the transfused product was 60%</h4>
+			<h4>Nadler's formula was utilized to calculate total blood volume.</h4>
+			 <a href="rce_post_tx_enter.php">HemoglobinS Post Simple Transfusion</a>
+			 <a href="rce_xchange_vol_calc_enter.php">Red Cell Exchange Calculations</a>
+			 <a href="partial_manual_enter.php">Partial Manual Exchange</a>
+			 <a href="auto_rce_dilution_enter.php">Automated Isovolemic Exchange</a>
+			 <a href="pv_enter.php">Plasma Volume Calculator</a>
+	</body>
+</html>
