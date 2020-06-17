@@ -12,7 +12,7 @@
 
       <h2>Development Team</h2>
         <dd><a href="http://www.uab.edu/medicine/pathology/residency-program/current-residents">Elizabeth Staley, MD/PhD</a></dd>
-        <dd><a href="http://www.uab.edu/medicine/mstp/current-students/student-perspectives">Tim Kennells, BS</a></dd>
+        <dd><a href="http://www.uab.edu/medicine/mstp/current-students/student-perspectives">Tim Kennell, BS, PhD</a></dd>
         <dd><a href="https://services.medicine.uab.edu/facultyDirectory/FacultyData.asp?FID=61255">Seung Park, MD</a></dd>
     
     
